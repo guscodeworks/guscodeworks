@@ -1,0 +1,50 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="360" fill="#0D1117"/>
+
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1280" y2="360">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="0.45" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+  </defs>
+
+  <circle cx="260" cy="90" r="170" fill="#3B82F6" opacity="0.35" filter="url(#blur)"/>
+  <circle cx="820" cy="40" r="190" fill="#7C3AED" opacity="0.35" filter="url(#blur)"/>
+  <circle cx="1080" cy="260" r="180" fill="#06B6D4" opacity="0.25" filter="url(#blur)"/>
+
+  <rect x="60" y="55" width="1160" height="250" rx="28" fill="#0B1220" stroke="#30363D"/>
+
+  <text x="95" y="115" fill="#E6EDF3" font-size="34" font-family="Arial, sans-serif" font-weight="700">
+    Gustavo Nascimento
+  </text>
+
+  <text x="95" y="155" fill="#58A6FF" font-size="20" font-family="Arial, sans-serif">
+    Desenvolvedor Back-End
+  </text>
+
+  <text x="95" y="205" fill="#8B949E" font-size="18" font-family="Arial, sans-serif">
+    Java • Node.js • Express.js • REST APIs • MySQL • PostgreSQL • MongoDB
+  </text>
+
+  <text x="95" y="245" fill="#C9D1D9" font-size="20" font-family="Arial, sans-serif">
+    Criando APIs, estruturando back-end e trabalhando com banco de dados.
+  </text>
+
+  <rect x="670" y="85" width="470" height="190" rx="18" fill="#161B22" stroke="#30363D"/>
+
+  <circle cx="700" cy="112" r="7" fill="#FF5F56"/>
+  <circle cx="724" cy="112" r="7" fill="#FFBD2E"/>
+  <circle cx="748" cy="112" r="7" fill="#27C93F"/>
+
+  <text x="700" y="155" fill="#8B949E" font-size="18" font-family="monospace">// backend</text>
+  <text x="700" y="185" fill="#58A6FF" font-size="18" font-family="monospace">const</text>
+  <text x="755" y="185" fill="#C9D1D9" font-size="18" font-family="monospace">dev = {</text>
+  <text x="730" y="215" fill="#A5D6FF" font-size="18" font-family="monospace">area: "Back-End",</text>
+  <text x="730" y="245" fill="#A5D6FF" font-size="18" font-family="monospace">focus: "APIs + Databases"</text>
+  <text x="700" y="270" fill="#C9D1D9" font-size="18" font-family="monospace">}</text>
+</svg>
