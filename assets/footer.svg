@@ -1,0 +1,26 @@
+<svg width="1280" height="210" viewBox="0 0 1280 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="210" rx="26" fill="#0D1117"/>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1280" y2="210">
+      <stop stop-color="#38BDF8"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="30"/></filter>
+  </defs>
+  <rect x="30" y="30" width="1220" height="150" rx="24" fill="#0B1220" stroke="url(#border)" stroke-width="2"/>
+  <circle cx="180" cy="105" r="65" fill="#2563EB" opacity="0.25" filter="url(#blur)">
+    <animate attributeName="cx" values="180;280;180" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="105" r="75" fill="#7C3AED" opacity="0.23" filter="url(#blur)">
+    <animate attributeName="cx" values="1100;1000;1100" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="640" y="82" text-anchor="middle" fill="#E6EDF3" font-size="28" font-family="Arial, sans-serif" font-weight="700">
+    Código bom não é só funcionar.
+  </text>
+  <text x="640" y="123" text-anchor="middle" fill="#8B949E" font-size="20" font-family="Arial, sans-serif">
+    É ser entendido, mantido e evoluído com responsabilidade.
+  </text>
+  <text x="640" y="158" text-anchor="middle" fill="#58A6FF" font-size="18" font-family="monospace">
+    Sempre evoluindo, um commit por vez.
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.6s" repeatCount="indefinite"/>
+  </text>
+</svg>
