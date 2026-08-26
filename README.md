@@ -65,10 +65,10 @@
 <table>
   <tr>
     <td width="100%">
-      <h3>📍 <a href="https://github.com/guscodeworks/Ponto-Escolar">Ponto Escolar</a></h3>
+      <h3>📍 <a href="https://github.com/guscodeworks/Ponto-Escolar">ATestaPonto(ATP)</a></h3>
       <p>
         Atualmente desenvolvendo:
-        <a href="https://github.com/guscodeworks/Ponto-Escolar"><strong>Ponto Escolar</strong></a>
+        <a href="https://github.com/guscodeworks/Ponto-Escolar"><strong>AtestaPonto</strong></a>
       </p>
       <p>
         <a href="https://github.com/guscodeworks/Ponto-Escolar">
