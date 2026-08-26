@@ -65,13 +65,13 @@
 <table>
   <tr>
     <td width="100%">
-      <h3>📍 <a href="https://github.com/guscodeworks/Ponto-Escolar">ATestaPonto(ATP)</a></h3>
+      <h3>📍 <a href="https://github.com/guscodeworks/Ponto-Escolar">ATestaPonto (ATP)</a></h3>
       <p>
         Atualmente desenvolvendo:
         <a href="https://github.com/guscodeworks/Ponto-Escolar"><strong>AtestaPonto</strong></a>
       </p>
       <p>
-        <a href="https://github.com/guscodeworks/Ponto-Escolar">
+        <a href="https://github.com/guscodeworks/ATestaPonto">
           <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório" />
         </a>
       </p>
