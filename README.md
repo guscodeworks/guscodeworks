@@ -68,7 +68,7 @@
       <h3>📍 <a href="https://github.com/guscodeworks/Ponto-Escolar">ATestaPonto (ATP)</a></h3>
       <p>
         Atualmente desenvolvendo:
-        <a href="https://github.com/guscodeworks/Ponto-Escolar"><strong>AtestaPonto</strong></a>
+        <a href="https://github.com/guscodeworks/Ponto-Escolar"><strong>ATestaPonto</strong></a>
       </p>
       <p>
         <a href="https://github.com/guscodeworks/ATestaPonto">
